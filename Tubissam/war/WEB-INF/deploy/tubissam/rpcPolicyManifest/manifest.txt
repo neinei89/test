@@ -1,0 +1,3 @@
+# Module tubissam
+# RPC service class, partial path of RPC policy file
+com.tubissam.client.GreetingService, 6B6C0EAA0C963120547048F00945B48B.gwt.rpc

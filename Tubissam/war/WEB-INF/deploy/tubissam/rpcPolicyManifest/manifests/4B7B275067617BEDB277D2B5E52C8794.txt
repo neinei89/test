@@ -1,0 +1,2 @@
+serviceClass: com.tubissam.client.GreetingService
+path: 6B6C0EAA0C963120547048F00945B48B.gwt.rpc
